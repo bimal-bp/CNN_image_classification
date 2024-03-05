@@ -1,4 +1,7 @@
 numpy
+pandas 
+tqdm
+scikit-image
 matplotlib
 opencv-python
 tensorflow
